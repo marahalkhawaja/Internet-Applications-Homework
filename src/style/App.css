@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "myCustomFont";
+  src: url("../public/fonts/EduSAHand-Regular.ttf");
+}
+
+body {
+  font-family: "myCustomFont";
+  display: flex;
+  justify-content: center;
+  padding:2px;
+}
+select{
+    font-family: "myCustomFont";
+}
